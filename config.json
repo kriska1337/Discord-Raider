@@ -1,0 +1,431 @@
+{
+    "user_agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/120.0.2210.91",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+        "Mozilla/5.0 (iPad; CPU OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 YaBrowser/23.11.0.0 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Whale/3.24.223.18 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Iron Safari/537.36"
+    ],
+    "spam_lists": {
+        "aggressive": [
+            "GET REKT NOOB!!!",
+            "L + RATIO + YOU FELL OFF",
+            "TRASH SERVER LOL",
+            "IMAGINE BEING THIS BAD",
+            "EZ CLAP",
+            "GET GOOD KID",
+            "SKILL ISSUE",
+            "COPE HARDER",
+            "TOUCH GRASS",
+            "MALDING",
+            "STAY MAD",
+            "CRY ABOUT IT",
+            "WHO ASKED?",
+            "DIDN'T ASK + DON'T CARE",
+            "YOU'RE LITERALLY DOG WATER",
+            "RATIO + L + BOZO",
+            "CRINGE + RATIO",
+            "NO SKILL DETECTED",
+            "TRASH + RATIO",
+            "DEAD SERVER LMAO"
+        ],
+        "life_questions": [
+            "What's your biggest dream in life?",
+            "How do you see yourself in 5 years?",
+            "What makes you truly happy?",
+            "What's your favorite childhood memory?",
+            "If you could travel anywhere, where would you go?",
+            "What's your biggest achievement?",
+            "What's your favorite hobby?",
+            "What inspires you the most?",
+            "What's your life motto?",
+            "If you could change one thing about the world, what would it be?",
+            "What's your biggest fear?",
+            "What's the best advice you've ever received?",
+            "What's your favorite book and why?",
+            "Who is your biggest role model?",
+            "What's your definition of success?",
+            "What's the most important lesson life has taught you?",
+            "Where do you find peace?",
+            "What makes you unique?",
+            "What's your passion in life?",
+            "What legacy do you want to leave behind?"
+        ],
+        "promo": [
+            "Join the best server: discord.gg/example",
+            "Check out our amazing community!",
+            "Don't miss out on exclusive content!",
+            "Best prices and deals here!",
+            "Join now for free rewards!",
+            "Limited time offer!",
+            "Exclusive membership perks!",
+            "Daily giveaways!",
+            "Join the fastest growing community!",
+            "🔥 BEST DISCORD SERVER 2024 🔥",
+            "💎 VIP PERKS AVAILABLE NOW 💎",
+            "🎮 GAMING COMMUNITY OF THE YEAR 🎮",
+            "🎁 HOURLY GIVEAWAYS 🎁",
+            "💫 ACTIVE COMMUNITY 24/7 💫",
+            "🌟 EXCLUSIVE ROLES AVAILABLE 🌟"
+        ],
+        "copypasta": [
+            "According to all known laws of aviation, there is no way a bee should be able to fly",
+            "What the fuck did you just fucking say about me, you little bitch?",
+            "To be fair, you have to have a very high IQ to understand",
+            "Navy Seal copypasta here...",
+            "Did you ever hear the tragedy of Darth Plagueis The Wise?",
+            "I sexually Identify as an Attack Helicopter",
+            "( ͡° ͜ʖ ͡°)",
+            "OwO what's this?",
+            "You know I had to do it to em",
+            "This is so sad, Alexa play Despacito"
+        ],
+        "compliments": [
+            "You're amazing!",
+            "Looking great today!",
+            "You make the world better!",
+            "Your energy is contagious!",
+            "You're a true inspiration!",
+            "Keep being awesome!",
+            "You're absolutely incredible!",
+            "The world needs more people like you!",
+            "You light up every room you enter!",
+            "Your smile is contagious!",
+            "You're a ray of sunshine!",
+            "You're simply the best!",
+            "You're one in a million!",
+            "You're absolutely perfect!",
+            "You're a true gem!"
+        ],
+        "random": [
+            "Monkeys can type Shakespeare",
+            "The cake is a lie",
+            "Birds aren't real",
+            "This message was sponsored by RAID: Shadow Legends",
+            "Did you know that 99% of your problems are in your head?",
+            "Fun fact: You're reading this right now",
+            "Plot twist: This is actually a dream",
+            "Error 404: Brain not found",
+            "Insert funny text here",
+            "Loading personality... Please wait...",
+            "If you read this, you can read",
+            "This message will self-destruct in 5...",
+            "Roses are red, violets are blue",
+            "I'm not a bot, I promise",
+            "Press ALT+F4 for free robux"
+        ],
+        "custom": [],
+        "custom_console": []
+    },
+    "emojis": [
+        "😂",
+        "🔥",
+        "💀",
+        "👻",
+        "🎮",
+        "💯",
+        "👑",
+        "💪",
+        "🌟",
+        "✨",
+        "💫",
+        "⭐",
+        "🌈",
+        "🎯",
+        "🎪",
+        "🎨",
+        "😈",
+        "👿",
+        "👹",
+        "🤡",
+        "💩",
+        "👾",
+        "🤖",
+        "🎃",
+        "❤️",
+        "🧡",
+        "💛",
+        "💚",
+        "💙",
+        "💜",
+        "🤎",
+        "🖤",
+        "😱",
+        "🥶",
+        "🥵",
+        "🤯",
+        "🤪",
+        "🤭",
+        "🥳",
+        "🤠",
+        "💎",
+        "🌙",
+        "⚡",
+        "💥",
+        "✅",
+        "❌",
+        "💢",
+        "♨️",
+        "🌈",
+        "🌊",
+        "🔮",
+        "🎲",
+        "🎯",
+        "🎰",
+        "🎲",
+        "🎮",
+        "🏆",
+        "🥇",
+        "🥈",
+        "🥉",
+        "🏅",
+        "🎖",
+        "🏵",
+        "🎗",
+        "🎭",
+        "🎪",
+        "🎢",
+        "🎡",
+        "🎠",
+        "🎟",
+        "🎫",
+        "🎪",
+        "💫",
+        "⚡",
+        "💥",
+        "✨",
+        "⭐",
+        "🌟",
+        "💫",
+        "✨",
+        "🔥",
+        "💥",
+        "⚡",
+        "✨",
+        "💫",
+        "🌟",
+        "⭐",
+        "✨",
+        "💎",
+        "💍",
+        "💄",
+        "👑",
+        "👒",
+        "🎩",
+        "🎓",
+        "🧢"
+    ],
+    "random_chars": [
+        "★",
+        "☆",
+        "✮",
+        "✯",
+        "☯",
+        "✵",
+        "❀",
+        "❁",
+        "♕",
+        "♔",
+        "♚",
+        "♛",
+        "⚡",
+        "☄",
+        "✺",
+        "❂",
+        "☸",
+        "✙",
+        "✟",
+        "✠",
+        "✯",
+        "❋",
+        "❊",
+        "❉",
+        "❈",
+        "❅",
+        "❄",
+        "❃",
+        "❂",
+        "❁",
+        "❀",
+        "✿",
+        "✾",
+        "✽",
+        "✼",
+        "✻",
+        "✺",
+        "✹",
+        "✸",
+        "✷",
+        "✶",
+        "✵",
+        "✴",
+        "✳",
+        "✲",
+        "✱",
+        "✰",
+        "✯",
+        "✮",
+        "✭",
+        "✬",
+        "✫",
+        "✪",
+        "✩",
+        "✧",
+        "✦",
+        "⚔",
+        "⚜",
+        "☠",
+        "☮",
+        "☯",
+        "☪",
+        "✝",
+        "☦",
+        "✡",
+        "☸",
+        "⚛",
+        "🕉",
+        "☯",
+        "✴",
+        "✳",
+        "❋",
+        "❊",
+        "❉",
+        "❈",
+        "❇",
+        "❆",
+        "❅",
+        "❄",
+        "❃"
+    ],
+    "custom_spam": [
+        "fuck"
+    ],
+    "themes": {
+        "current_theme": "matrix",
+        "standard": {
+            "name": "Standard Purple",
+            "gradient": {
+                "start": [
+                    147,
+                    112,
+                    219
+                ],
+                "end": [
+                    255,
+                    62,
+                    169
+                ]
+            }
+        },
+        "phoenix": {
+            "name": "Phoenix",
+            "gradient": {
+                "start": [
+                    255,
+                    69,
+                    0
+                ],
+                "end": [
+                    255,
+                    215,
+                    0
+                ]
+            }
+        },
+        "blizzard": {
+            "name": "Blizzard",
+            "gradient": {
+                "start": [
+                    0,
+                    191,
+                    255
+                ],
+                "end": [
+                    230,
+                    230,
+                    250
+                ]
+            }
+        },
+        "violet": {
+            "name": "Violet Dream",
+            "gradient": {
+                "start": [
+                    138,
+                    43,
+                    226
+                ],
+                "end": [
+                    216,
+                    191,
+                    216
+                ]
+            }
+        },
+        "matrix": {
+            "name": "Matrix",
+            "gradient": {
+                "start": [
+                    0,
+                    255,
+                    0
+                ],
+                "end": [
+                    0,
+                    100,
+                    0
+                ]
+            }
+        },
+        "sunset": {
+            "name": "Sunset",
+            "gradient": {
+                "start": [
+                    255,
+                    64,
+                    129
+                ],
+                "end": [
+                    255,
+                    140,
+                    0
+                ]
+            }
+        },
+        "ocean": {
+            "name": "Ocean Deep",
+            "gradient": {
+                "start": [
+                    0,
+                    150,
+                    255
+                ],
+                "end": [
+                    0,
+                    255,
+                    200
+                ]
+            }
+        },
+        "blood": {
+            "name": "Blood Moon",
+            "gradient": {
+                "start": [
+                    220,
+                    20,
+                    60
+                ],
+                "end": [
+                    139,
+                    0,
+                    0
+                ]
+            }
+        }
+    }
+}
